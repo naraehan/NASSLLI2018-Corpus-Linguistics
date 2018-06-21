@@ -23,6 +23,7 @@ There are many flavors of Python, but we recommend Anaconda's distribution. Anac
 - Make sure you download and install the **Python 3.6 version**. Important!
 - 64-bit vs. 32-bit: if your system can handle it (most modern systems can), we recommend 64-bit, which is Anaconda's default choice also. 
 - Double-click the downloaded setup file to start the installation process. Details:
+   - Ignore the question about installing Visual Studio Code. We don't need it. 
    - A "Get the cheat sheet" dialog box will pop up asking for your email. You can ignore it. 
    - The setup file is 600MB; You will need 3GB of space on your hard drive. 
    - The default settings and options should work fine for most of you.   

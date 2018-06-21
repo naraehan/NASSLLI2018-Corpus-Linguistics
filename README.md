@@ -34,8 +34,8 @@ Class meets 9am to 10:15am Monday through Friday, at 235B and 237B of Baker Hall
 	
 - Thursday, June 28
 
-    [Day 4: Concordances and other corpus tools](day4.ipynb)
+    [Day 4: N-grams, concordances and other corpus tools](day4.ipynb)
 
 - Friday, June 29
 
-    [Day 5: Bring your own corpus, wrap up](day5.ipynb)
+    [Day 5: Advanced processing, bring your own corpus, wrap up](day5.ipynb)
