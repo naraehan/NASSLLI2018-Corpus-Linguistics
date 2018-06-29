@@ -7,7 +7,7 @@ This is the course home for [Corpus Linguistics with Python and NLTK](https://ww
 - [David J. Birnbaum](http://www.slavic.pitt.edu/person/david-j-birnbaum) (`djbpitt@pitt.edu`; Slavic Languages & Literatures, University of Pittsburgh)
 - Teaching assistants:
   - Connor Lovejoy, Sarah Kerman (Section 1)
-  - John Knox III, Emily Ahn (Section 2)
+  - John Knox III, [Emily Ahn](http://emilysahn.com/) (Section 2)
 
 
 ## Prerequisites, Software Installation
